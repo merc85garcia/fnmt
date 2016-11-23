@@ -1,5 +1,5 @@
-# fnmt
-Repository for the Factored Neural Machine Translation system
+# FNMT
+Repository for the Factored Neural Machine Translation system.
 
 The sources will be open-sourced soon.
 

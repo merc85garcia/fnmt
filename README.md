@@ -1,6 +1,5 @@
-# FNMT
-Repository for the Factored Neural Machine Translation system.
+#  Factored Neural Machine Translation system.
 
-The sources will be open-sourced soon.
+The FNMT system repository is part of the NMTPY repostory available in https://github.com/lium-lst/nmtpy.
 
-For the code concerning Factored NMT system contact Mercedes.Garcia_Martinez@univ-lemans.fr.
+For more info contact Mercedes.Garcia_Martinez@univ-lemans.fr.
